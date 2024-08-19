@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+html {
+  width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* section {
+  padding-left: 12rem;
+  padding-right: 12rem;
+  padding-bottom: 7.2rem;
+  margin-bottom: 2.4rem;
+} */
+
+.center-container-x {
+  margin: 0px auto;
+}
+
+.center-container-y {
+  margin: auto 0px;
+}
+
+@keyframes border-fill {
+  0% {
+  }
+  100% {
+  }
+}
+
+/* RAINBOW BUTTON
+.rainbow-button {
+  background: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+  background-size: 400% auto;
+  animation: scroll 14s linear infinite;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.966);
+}
+
+
+
+
+@keyframes rainbow-border {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 400% 50%;
+  }
+}
+
+@keyframes scroll {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: -400% center;
+  }
+} */
+
+.contact-container {
+  background-image: linear-gradient(to left, hwb(0 18% 81% / 0), #366045),
+    url(./resources/highFive.png);
+}
