@@ -22,13 +22,18 @@ By accessing this repository, you acknowledge that:
 
 An intuitive and engaging user interface that adapts seamlessly to all devices. The homepage showcases featured products and company information in a visually appealing layout.
 
-![MainPage1](https://github.com/user-attachments/assets/de94f8f2-0ddf-44f3-b1bb-492fa7fcb69b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c5726416-7395-4d68-a295-8b593e6e4e24" width="80%" alt="Who We Are Page">
+</div>
 
-![MainPage2](https://github.com/user-attachments/assets/4bc0d0d3-b3e2-4fdc-b92f-ef4365aba73d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de94f8f2-0ddf-44f3-b1bb-492fa7fcb69b" width="45%" alt="Main Page 1">
+  <img src="https://github.com/user-attachments/assets/4bc0d0d3-b3e2-4fdc-b92f-ef4365aba73d" width="45%" alt="Main Page 2">
+</p>
 
-![Main3](https://github.com/user-attachments/assets/d9e7acdc-eebe-4b44-861f-572c977a6a88)
-
-![WhoWeArePage](https://github.com/user-attachments/assets/c5726416-7395-4d68-a295-8b593e6e4e24)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9e7acdc-eebe-4b44-861f-572c977a6a88" width="80%" alt="Main Page 3">
+</p>
 
 ### 2. 🛍️ Advanced Shop Interface
 
@@ -37,13 +42,18 @@ An intuitive and engaging user interface that adapts seamlessly to all devices. 
 * Quick-purchase buttons for streamlined shopping
 * Real-time product updates
 
-![ShopPage](https://github.com/user-attachments/assets/5869e7af-e845-4afd-97c7-b48793eb478d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5869e7af-e845-4afd-97c7-b48793eb478d" width="80%" alt="Shop Page">
+</p>
 
-![ShopPage PressingButton](https://github.com/user-attachments/assets/179e324f-0057-41d7-97eb-e9432fb734b9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/179e324f-0057-41d7-97eb-e9432fb734b9" width="45%" alt="Shop Button Interaction">
+  <img src="https://github.com/user-attachments/assets/193e6830-df5b-4ce5-8ac2-8c1c717b5093" width="45%" alt="Shop Filtering">
+</p>
 
-![ShopPage Filter1](https://github.com/user-attachments/assets/193e6830-df5b-4ce5-8ac2-8c1c717b5093)
-
-![ShopPage Filter2](https://github.com/user-attachments/assets/6dc0f616-754d-4570-8d6a-14785da5baff)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6dc0f616-754d-4570-8d6a-14785da5baff" width="80%" alt="Advanced Filtering">
+</p>
 
 ### 3. 📦 Detailed Product Pages
 
@@ -51,10 +61,11 @@ An intuitive and engaging user interface that adapts seamlessly to all devices. 
 * Dynamic purchasing options based on product type
 * High-quality product images
 * Custom specification options
-  
-![ItemPage](https://github.com/user-attachments/assets/50af831d-40c4-44f9-99ce-8505dce1578f)
 
-![ItemPage2 BuyButton](https://github.com/user-attachments/assets/bb1a6b26-6f45-48ca-99e4-2a7e4696538f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50af831d-40c4-44f9-99ce-8505dce1578f" width="45%" alt="Item Page">
+  <img src="https://github.com/user-attachments/assets/bb1a6b26-6f45-48ca-99e4-2a7e4696538f" width="45%" alt="Buy Button Interaction">
+</p>
 
 ### 4. 📞 Customer Communication
 
@@ -62,9 +73,10 @@ An intuitive and engaging user interface that adapts seamlessly to all devices. 
 * Newsletter subscription system
 * Direct communication channel with the company
 
-![ContactPage](https://github.com/user-attachments/assets/e25441f8-6fae-4560-84b6-9352b4fcedb2)
-
-![Newsletter](https://github.com/user-attachments/assets/1c2d689d-2256-4779-972f-0f1d36571a09)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e25441f8-6fae-4560-84b6-9352b4fcedb2" width="45%" alt="Contact Page">
+  <img src="https://github.com/user-attachments/assets/1c2d689d-2256-4779-972f-0f1d36571a09" width="45%" alt="Newsletter">
+</p>
 
 ### 5. 🛒 Dynamic Shopping Cart
 
@@ -75,11 +87,14 @@ An intuitive and engaging user interface that adapts seamlessly to all devices. 
 * Secure Stripe checkout integration
 * Order review and modification
 
-![Cart1](https://github.com/user-attachments/assets/df28d914-5023-4934-95f1-139ef88971b4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df28d914-5023-4934-95f1-139ef88971b4" width="80%" alt="Cart Overview">
+</p>
 
-![Cart2](https://github.com/user-attachments/assets/5dba126c-df76-452d-b877-ff3f0e32eddb)
-
-![Cart3 Checkout](https://github.com/user-attachments/assets/86856e05-ed1e-4cdb-9109-3c789c2db902)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5dba126c-df76-452d-b877-ff3f0e32eddb" width="45%" alt="Cart Management">
+  <img src="https://github.com/user-attachments/assets/86856e05-ed1e-4cdb-9109-3c789c2db902" width="45%" alt="Checkout Process">
+</p>
 
 ### 6. 🔐 Secure Admin Dashboard
 
@@ -87,12 +102,15 @@ An intuitive and engaging user interface that adapts seamlessly to all devices. 
 * Comprehensive product management
 * Stock monitoring and analytics
 * Advanced filtering and sorting capabilities
-  
-![Admin Login](https://github.com/user-attachments/assets/8b6b3e8f-15e0-4fcf-9cec-2eec87993d29)
 
-![Admin ProductList1](https://github.com/user-attachments/assets/1bd7d2c8-644e-42c8-bb0f-ea57e10b0fbc)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b6b3e8f-15e0-4fcf-9cec-2eec87993d29" width="80%" alt="Admin Login">
+</p>
 
-![Admin ProductList2](https://github.com/user-attachments/assets/7986eb28-9af3-4696-bc4d-66d7460e3e5c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bd7d2c8-644e-42c8-bb0f-ea57e10b0fbc" width="45%" alt="Product List View">
+  <img src="https://github.com/user-attachments/assets/7986eb28-9af3-4696-bc4d-66d7460e3e5c" width="45%" alt="Product Management">
+</p>
 
 ### 8. ➕ Product Creation System
 
@@ -101,13 +119,18 @@ An intuitive and engaging user interface that adapts seamlessly to all devices. 
 * Image upload and management
 * Inventory tracking integration
 
-![Admin CreateProduct](https://github.com/user-attachments/assets/201c8b36-4c2e-4f64-9e6f-a4fc875162f8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/201c8b36-4c2e-4f64-9e6f-a4fc875162f8" width="80%" alt="Create Product Interface">
+</p>
 
-![Admin CreateProduct Final](https://github.com/user-attachments/assets/df572404-1864-4591-a39f-df6646bf5c54)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df572404-1864-4591-a39f-df6646bf5c54" width="45%" alt="Product Creation">
+  <img src="https://github.com/user-attachments/assets/9af5dac8-a66c-4698-9bb0-daf53fd5f854" width="45%" alt="Product Editing">
+</p>
 
-![Admin Editing](https://github.com/user-attachments/assets/9af5dac8-a66c-4698-9bb0-daf53fd5f854)
-
-![Admin Deleting](https://github.com/user-attachments/assets/7941f5d7-f037-4606-acf9-06e62bd51719)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7941f5d7-f037-4606-acf9-06e62bd51719" width="80%" alt="Product Deletion">
+</p>
 
 ## 🔒 Security Features
 
